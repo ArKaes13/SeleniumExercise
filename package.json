@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "selenium-webdriver": "^4.25.0"
+  },
+  "dependencies": {
+    "chromedriver": "^129.0.1",
+    "geckodriver": "^4.5.0"
+  }
+}
